@@ -11,4 +11,4 @@
 -Meet Juli herself in the chickenjoy pit!
 
 
- [Buy Tickets Now!](https://juli-m.github.com/juliland/tickets).
+ [Buy Tickets Now!](https://juli-m.github.io/juliland/tickets).
